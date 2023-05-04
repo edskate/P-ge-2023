@@ -13,5 +13,10 @@ body{
 h2{
    flex-grow: calc(2.4);
    text-indent: 10%; 
-   
+   color: blueviolet;
+
+}
+p{
+    color: aliceblue;
+    margin-left: 10%;
 }
